@@ -1,5 +1,5 @@
 {
-  "domain": "tado",
+  "domain": "tado-x",
   "name": "Tado X",
   "codeowners": ["@chiefdragon", "@erwindouna", "@Moritz-Schmidt"],
   "config_flow": true,
